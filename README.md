@@ -75,3 +75,6 @@ $ns at 4.5 "$cbr0 stop"
 #Call the finish procedure after 5 seconds of simulation time 
 $ns at 5.0 "finish" 
 $ns run
+# output
+  ![WhatsApp Image 2025-09-03 at 12 28 55 PM (1)](https://github.com/user-attachments/assets/98fc6529-9d39-480f-83c1-ee79fdfad75f)
+
