@@ -75,3 +75,8 @@ $ns at 4.5 "$cbr0 stop"
 #Call the finish procedure after 5 seconds of simulation time 
 $ns at 5.0 "finish" 
 $ns run
+# output
+  <img width="907" height="466" alt="Screenshot 2026-03-26 111748" src="https://github.com/user-   attachments/assets/fee1539e-3278-49dd-bde2-8cb7241972c1" />
+ # RESULT
+
+Thus the Bus Topology using NS2 software is created and monitored successfully.
